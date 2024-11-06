@@ -1,8 +1,9 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
- <!-- Remotes -->
- <remote name="kazusakiii27" fetch="https://github.com/kazusakiii27" />
- <!-- Trees -->
- <project path="device/xiaomi/blossom" name="device_xiaomi_sweet" remote="kazusakiii27" revision="aosp-10_64" />
+<!-- Remotes -->
+<remote name="kazusakiii27" fetch="https://github.com/kazusakiii27" />
+
+<!-- Trees -->
+<project path="device/xiaomi/blossom" name="device_xiaomi_sweet" remote="kazusakiii27" revision="aosp-10_64" />
 <project path="vendor/xiaomi/blossom" name="device_xiaomi_sweet" remote="kazusakiii27" revision="blossom-Q_main" />
