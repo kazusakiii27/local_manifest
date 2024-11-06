@@ -1,4 +1,4 @@
-## UNIFIED ANDROID Q DEVICE TREE FOR BLOSSOM DEVICES ( REDMI MEDIATEK MT6762 / G25 SERIES )
+## Dep ANDROID Q Local Manifest For Blossom Devices ( REDMI MEDIATEK MT6762 / G25 SERIES )
 ==================================================
 
 
